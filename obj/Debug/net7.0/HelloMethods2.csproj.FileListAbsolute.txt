@@ -1,0 +1,15 @@
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/bin/Debug/net7.0/HelloMethods2
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/bin/Debug/net7.0/HelloMethods2.deps.json
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/bin/Debug/net7.0/HelloMethods2.runtimeconfig.json
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/bin/Debug/net7.0/HelloMethods2.dll
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/bin/Debug/net7.0/HelloMethods2.pdb
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.csproj.AssemblyReference.cache
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.AssemblyInfoInputs.cache
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.AssemblyInfo.cs
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.csproj.CoreCompileInputs.cache
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.dll
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/refint/HelloMethods2.dll
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.pdb
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/HelloMethods2.genruntimeconfig.cache
+/Users/tienpham-vu/Desktop/C#/Class Practice/HelloMethods2/obj/Debug/net7.0/ref/HelloMethods2.dll
